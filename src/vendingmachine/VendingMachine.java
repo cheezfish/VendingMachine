@@ -21,7 +21,7 @@ public class VendingMachine {
     public static void init() { //Announces vending machine selections and asks for selection
         
         System.out.println("What's cookin'?");
-        System.out.println("1.Coffee" + " 2.Tea" + " 3.HotChoc" + " 4.Miso");
+        System.out.println("1. Coffee" + " 2. Tea" + " 3. HotChoc" + " 4. Miso");
         
     }
     
